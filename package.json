@@ -1,0 +1,15 @@
+{
+  "name": "challenge-18-mongodb-backend",
+  "version": "1.0.0",
+  "description": "A backend for an e-commerce website using mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.4"
+  }
+}
